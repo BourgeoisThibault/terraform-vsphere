@@ -1,0 +1,8 @@
+vsphere_server     = ""
+vsphere_user       = ""
+vsphere_password   = ""
+datacenter         = ""
+datastore          = ""
+cluster            = ""
+network_name       = ""
+ubuntu_name        = ""
