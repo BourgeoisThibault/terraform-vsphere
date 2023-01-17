@@ -17,6 +17,7 @@ crash.log
 # control as they are data points which are potentially sensitive and subject 
 # to change depending on the environment.
 #
+perso.tfvars
 *.tfvars
 *.tfvars.example
 
